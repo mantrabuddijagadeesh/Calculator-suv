@@ -6,6 +6,6 @@ Follow the below steps for compiling this project.
    https://github.com/mantrabuddijagadeesh/Calculator-suv/
    
 3) npm install redux.
-4)npm install react-redux.
+4) npm install react-redux.
 
 Start the project with: npx start. 
